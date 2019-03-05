@@ -6,6 +6,8 @@ Select with grouping
 
 Group choices
 
+![select optgroup](https://dealingit.files.wordpress.com/2009/10/screen-shot-2009-10-26-at-12-08-27-pm.png?w=500)
+
 # Requirements / Требования
 Django >= 2.0
 
